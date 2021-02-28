@@ -1,5 +1,5 @@
 import { useContext } from 'react';
-import { ChallengesContext } from '../contexts/ChallangeContext';
+import { ChallengesContext } from '../contexts/ChallangesContext';
 import { CountdownContext } from '../contexts/CountdownContext';
 import styles from '../styles/components/ChallengeBox.module.css';
 
